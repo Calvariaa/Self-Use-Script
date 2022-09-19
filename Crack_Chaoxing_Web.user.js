@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         超星学习通网页版强制打开作业考试等页面
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
-// @author       You
+// @author       Calvaria
 // @match        https://mooc1.chaoxing.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chaoxing.com
 // @grant        none
